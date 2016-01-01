@@ -1,0 +1,53 @@
+
+<level>
+
+	<levelID>in-the-woods-738434</levelID>
+	
+	<name>In the Woods</name>
+	<gravity>-10</gravity>
+	<backgroundImage>/resources/images/bkgd in the woods.png</backgroundImage>
+	<levelBounds>
+		<width>1000</width>
+		<height>625</height>
+	</levelBounds>
+	<levelObjective>Just Play Around and Experiment</levelObjective>
+	
+	<scaffold>
+		<x>0</x>
+		<y>0</y>
+		<width>1000</width>
+		<height>2</height>
+		<impassable>true</impassable>
+	</scaffold>
+	
+	<scaffold>
+		<x>200</x>
+		<y>300</y>
+		<width>200</width>
+		<height>10</height>
+		<impassable>false</impassable>
+	</scaffold>
+	
+	<initialGameWindow>
+		<x>0</x>
+		<y>0</y>
+	</initialGameWindow>
+	
+	<backgroundMusicURL>/resources/sounds/Monkeys Spinning Monkeys.wav</backgroundMusicURL>
+	
+	<enemySpawner>
+		<type>TallBunnyRabbit</type>
+		<x>1030</x>
+		<y>100</y>
+		<numberPerSpawn>1</numberPerSpawn>
+		<periodLength>50</periodLength>
+		<decreasingPeriod>true</decreasingPeriod>
+		<minNumberOfEnemies>1</minNumberOfEnemies>
+		<onlyMyEnemies>true</onlyMyEnemies>
+		<minY>0</minY>
+		<maxY>625</maxY>
+		<minX>0</minX>
+		<maxX>1000</maxX>
+	</enemySpawner>
+
+</level>

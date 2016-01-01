@@ -1,0 +1,30 @@
+
+
+<level>
+
+	<levelID>journey-by-night-859865</levelID>
+	
+	<name>Journey By Night</name>
+	
+	<gravity>-10</gravity>
+	<backgroundImage>/resources/images/level 2 bkgd.png</backgroundImage>
+	<levelBounds>
+		<width>6000</width>
+		<height>625</height>
+	</levelBounds>
+	<levelObjective>Get to the end</levelObjective>
+	
+	<scaffold>
+		<x>0</x>
+		<y>0</y>
+		<width>6000</width>
+		<height>2</height>
+		<impassable>true</impassable>
+	</scaffold>
+	
+	<initialGameWindow>
+		<x>0</x>
+		<y>0</y>
+	</initialGameWindow>
+
+</level>

@@ -1,0 +1,187 @@
+
+
+<realm>
+	<realmID>watership-down-111111</realmID>
+	
+	<name>Waterdown Ship</name>
+	
+	<blockWidth>40</blockWidth>
+	<blockHeight>25</blockHeight>
+	
+	<backgroundImage>/resources/images/space background.png</backgroundImage>
+	
+	<station>
+		<block>
+			<x>5</x>
+			<y>5</y>
+		</block>
+		<levelDataFilePath>In the Woods.xml</levelDataFilePath>
+	</station>
+	
+	<station>
+		<block>
+			<x>10</x>
+			<y>5</y>
+		</block>
+		<levelDataFilePath>Journey By Night.xml</levelDataFilePath>
+	</station>
+	
+	<station>
+		<block>
+			<x>8</x>
+			<y>3</y>
+		</block>
+	</station>
+	
+	<road>
+		<block>
+			<x>5</x>
+			<y>6</y>
+		</block>
+		<side>bottom</side>
+		<side>top</side>
+	</road>
+	
+	<road>
+		<block>
+			<x>5</x>
+			<y>7</y>
+		</block>
+		<side>bottom</side>
+		<side>right</side>
+	</road>
+	
+	<road>
+		<block>
+			<x>6</x>
+			<y>7</y>
+		</block>
+		<side>left</side>
+		<side>left</side>
+	</road>
+	
+	
+	
+	<road>
+		<block>
+			<x>6</x>
+			<y>5</y>
+		</block>
+		<side>right</side>
+		<side>left</side>
+	</road>
+	
+	<road>
+		<block>
+			<x>7</x>
+			<y>5</y>
+		</block>
+		<side>right</side>
+		<side>left</side>
+	</road>
+	
+	<road>
+		<block>
+			<x>8</x>
+			<y>5</y>
+		</block>
+		<side>right</side>
+		<side>left</side>
+	</road>
+	
+	<road>
+		<block>
+			<x>9</x>
+			<y>5</y>
+		</block>
+		<side>right</side>
+		<side>left</side>
+	</road>
+	
+	
+	
+	<road>
+		<block>
+			<x>5</x>
+			<y>4</y>
+		</block>
+		<side>top</side>
+		<side>bottom</side>
+	</road>
+	
+	<road>
+		<block>
+			<x>5</x>
+			<y>3</y>
+		</block>
+		<side>top</side>
+		<side>right</side>
+	</road>
+	
+	<road>
+		<block>
+			<x>6</x>
+			<y>3</y>
+		</block>
+		<side>top</side>
+		<side>left</side>
+	</road>
+	
+	<road>
+		<block>
+			<x>6</x>
+			<y>4</y>
+		</block>
+		<side>bottom</side>
+		<side>right</side>
+	</road>
+	
+	<road>
+		<block>
+			<x>7</x>
+			<y>4</y>
+		</block>
+		<side>bottom</side>
+		<side>left</side>
+	</road>
+	
+	<road>
+		<block>
+			<x>7</x>
+			<y>3</y>
+		</block>
+		<side>top</side>
+		<side>right</side>
+	</road>
+	
+	
+	<road>
+		<block>
+			<x>9</x>
+			<y>3</y>
+		</block>
+		<side>right</side>
+		<side>left</side>
+	</road>
+	
+	<road>
+		<block>
+			<x>10</x>
+			<y>3</y>
+		</block>
+		<side>top</side>
+		<side>left</side>
+	</road>
+	
+	<road>
+		<block>
+			<x>10</x>
+			<y>4</y>
+		</block>
+		<side>top</side>
+		<side>bottom</side>
+	</road>
+	
+	
+
+</realm>
